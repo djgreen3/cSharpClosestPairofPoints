@@ -1,0 +1,1 @@
+C:\Users\Dan\Source\Repos\cSharpBinarySearch\ClosestPairOfPoints\ClosestPairOfPoints\bin\Debug\ClosestPairOfPoints.exe.config
